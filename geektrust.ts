@@ -1,4 +1,4 @@
-import { FamilyManager } from "./models/person";
+import { FamilyManager } from "./models/family-manager";
 import fs from 'fs';
 import { EOL } from 'os';
 
