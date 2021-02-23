@@ -2,11 +2,11 @@
   "name": "family",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "geektrust.js",
   "scripts": {
     "tsc": "tsc",
-    "dev": "tsc && node ./build/index.js",
-    "start": "node ./build/index.js",
+    "dev": "tsc && node ./build/geektrust.js",
+    "start": "tsc && node ./build/geektrust.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
